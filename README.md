@@ -3,5 +3,5 @@
 "Coders Strike Back" - Simulation in Python
 
 ## Additional resources
-https://github.com/inoryy/csb-ai-starter
-http://files.magusgeek.com/csb/csb_en.html
+  1. https://github.com/inoryy/csb-ai-starter
+  2. http://files.magusgeek.com/csb/csb_en.html
