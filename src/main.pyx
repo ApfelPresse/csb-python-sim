@@ -101,7 +101,7 @@ cdef class Pod(Unit):
     cdef float next_angle
     cdef short max_angle
     cdef Pod partner
-    cdef short laps
+    cdef public short laps
     cdef short cp_ct
     cdef list cps
 
