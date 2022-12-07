@@ -1,7 +1,7 @@
 import os
 
 import numpy
-from setuptools import Extension, setup
+from setuptools import Extension, setup, find_packages
 
 USE_CYTHON = os.getenv("USE_CYTHON", True)
 
@@ -34,7 +34,7 @@ setup(
     description="Coders Strike Back - Simulation in Python, converted from codinggame.com https://github.com/inoryy/csb-ai-starter",
     long_description="",
     # setup_requires = ["cython", "numpy"],
-    # packages=find_packages(),
+    packages=find_packages(),
     install_requires=["numpy"],
     # include_package_data=True,
     # cmdclass = {'build_ext': build_ext},
