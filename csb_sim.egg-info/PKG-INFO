@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: csb-sim
+Version: 0.0.2
+Summary: Coders Strike Back - Simulation in Python, converted from codinggame.com https://github.com/inoryy/csb-ai-starter
+Home-page: https://github.com/ApfelPresse/csb-python-sim
+Author: Kevin Stiefel
+Author-email: 
+Requires-Python: >=3.7
+License-File: LICENSE
